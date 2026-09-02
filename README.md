@@ -1,16 +1,49 @@
-## Hi there 👋
+# 👋 Привет! Я Анастасия
 
-<!--
-**Stasics/Stasics** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Студентка 2 курса** Физико-технического института КФУ им. В.И. Вернадского  
+💻 Направление: **Программная инженерия**  
+🎯 Цель: **Стать разработчиком 1С**  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Мой стек
+
+| Технология | Уровень |
+|------------|---------|
+| **1С:Предприятие 8.3** | Средний |
+| **СКД** | Средний |
+| **Управляемые формы** | Средний |
+| **Язык запросов 1С** | Средний |
+| **Git / GitHub** | Базовый |
+| **Python** | Базовый |
+
+---
+
+## 📁 Мои проекты
+
+### 🏢 1С: Автоматизация учета товаров
+> Учебная конфигурация для учета движения товаров и услуг
+
+**Что сделано:**
+- Документы "Поступление товаров" и "Реализация товаров"
+- Отчеты на СКД: "Прайс-лист", "Отчет о закупках", "Ведомость закупок"
+- Регистр сведений "Артикулы"
+- Управляемые формы (интерфейс "Такси")
+
+---
+
+### 📊 GitHub статистика
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=AnastasiaGit&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnastasiaGit&layout=compact&theme=radical)
+
+---
+
+## 📫 Контакты
+
+
+
+---
+
+⭐ **Открыта к предложениям о стажировке!**
