@@ -1,35 +1,87 @@
-# 👋 Привет! Я Анастасия
+<h1 align="center">Привет! Меня зовут Анастасия Голованёва 👋</h1>
 
-**Разработчик** с фокусом на **бэкенд, автоматизацию и работу с данными**.
-Сейчас развиваюсь в сторону **Python-разработки**, имею опыт в **1С:Предприятие**.
+<p align="center">
+  <strong>Начинающий разработчик с фокусом на 1С:Предприятие и Backend (Python)</strong>
+</p>
 
----
-
-## 🛠️ Технологии
-
-| Область | Технологии |
-|---------|------------|
-| **Языки** | Python, 1С-скрипты, SQL |
-| **Базы данных** | PostgreSQL, MS SQL Server, встроенная СУБД 1С |
-| **Инструменты** | Git, GitHub, REST API |
-| **Платформы** | 1С:Предприятие 8.3 |
-| **Отчеты** | СКД, аналитические запросы |
-
----
-
-## 📊 GitHub статистика
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=AnastasiaGit&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnastasiaGit&layout=compact&theme=radical)
+<p align="center">
+  <a href="https://t.me/[ССЫЛКА_НА_TELEGRAM]">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+  <a href="mailto:[ТВОЯ_ПОЧТА]@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="[ССЫЛКА_НА_РЕЗЮМЕ_НА_GOOGLE_DISK]" target="_blank">
+    <img src="https://img.shields.io/badge/Резюме-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-## 📫 Контакты
+### 👩‍💻 Обо мне
 
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ваш_ник)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ваш_email)
+Я учусь на 3-м курсе Физико-технического института КФУ им. В.И. Вернадского по направлению «Программная инженерия». 
+Мой путь в IT начался с 1С, и сейчас я активно развиваюсь в двух направлениях: разработка конфигураций на платформе 1С:Предприятие и бэкенд-разработка на Python.
+
+В рамках учебных проектов я прошла полный цикл создания приложений: от проектирования баз данных и интерфейсов до написания бизнес-логики и построения отчетов.
+
+**🛠️ Стек технологий:**
+
+| Направление | Технологии |
+| :--- | :--- |
+| **1С:Предприятие** | Платформа 8.3, Управляемые формы, СКД (Схема компоновки данных), Регистры сведений/накопления, Документооборот |
+| **Backend (Python)** | Python, FastAPI, SQLAlchemy, PostgreSQL, Docker, JWT-аутентификация |
+| **Frontend** | HTML, CSS, JavaScript (Vanilla), Yandex Maps API |
+| **DevOps** | Docker, CI/CD (GitHub Actions), Git |
 
 ---
 
-⭐ **Открыта к предложениям о стажировке!**
+### 📌 Проекты
+
+#### 🚚 Quick Parcel (Веб-приложение для курьерской службы)
+
+> *Роль: Fullstack-разработчик (Python + Frontend)*
+
+Веб-сервис для автоматизации работы курьерской службы, включающий управление заказами, калькулятор стоимости и ролевую модель (Клиент, Курьер, Администратор).
+
+*   **Стек:** Python (FastAPI, SQLAlchemy), PostgreSQL, Vanilla JS, Docker, Yandex Maps API.
+*   **Основные фичи:**
+    *   Разработка RESTful API с документацией Swagger/OpenAPI.
+    *   Реализована система статусов заказов: "Создан" -> "Оплачен" -> "В обработке" -> "Доставлен".
+    *   Интеграция с Yandex Maps для визуализации маршрутов.
+    *   Полноценная админ-панель для управления пользователями и заказами.
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=[ТВОЙ_GITHUB_ЛОГИН]&repo=quick-parcel)](https://github.com/[ТВОЙ_GITHUB_ЛОГИН]/quick-parcel)
+
+---
+
+#### 🔧 Учебная конфигурация 1С (Управление закупками/продажами)
+
+> *Роль: 1С-разработчик (Конфигуратор)*
+
+Комплексная конфигурация, разработанная в рамках учебных практик, охватывающая все ключевые объекты метаданных и механизмы платформы 1С.
+
+*   **Реализованные функции:**
+    *   **Справочники:** Номенклатура, Контрагенты, Валюты, Склады.
+    *   **Документы:** Поступление товаров, Реализация товаров (с учетом складов и контрагентов).
+    *   **Регистры сведений:** Хранение артикулов товаров (в разрезе контрагентов) и курсов валют.
+    *   **Отчеты:** Сложные отчеты на СКД (Ведомость закупок, Прайс-лист, Печать накладной) с кросс-таблицами, диаграммами и отборами по периодам.
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=[ТВОЙ_GITHUB_ЛОГИН]&repo=1c-learning-conf)](https://github.com/[ТВОЙ_GITHUB_ЛОГИН]/1c-learning-conf)
+
+---
+
+### 📈 Статистика активности
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=[ТВОЙ_GITHUB_ЛОГИН]&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[ТВОЙ_GITHUB_ЛОГИН]&layout=compact&theme=tokyonight" />
+</div>
+
+---
+
+### 🎯 Мои цели
+
+Я ищу стажировку, где смогу применить свои знания на практике и внести реальный вклад в развитие продуктов. Готова быстро обучаться и работать над сложными задачами. Мне особенно интересны проекты, связанные с разработкой конфигураций в 1С:Предприятие, а также разработка бэкенд-части высоконагруженных приложений на Python.
+
+**Готова к предложениям о стажировке и сотрудничеству!** 🤝
