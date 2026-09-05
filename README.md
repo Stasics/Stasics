@@ -1,12 +1,11 @@
 # 👋 Привет! Я Анастасия Голованёва
 
-> Студентка 3 курса | Программная инженерия | Ищу стажировку
 
 ---
 
 ## 🎯 Обо мне
 
-- 🎓 Учусь в **КФУ им. В.И. Вернадского** (ФТИ, 2 курс)
+- 🎓 Учусь в **КФУ им. В.И. Вернадского** (ФТИ, 3 курс)
 - 📚 Направление: **Программная инженерия** (09.03.04)
 - 💻 Разрабатываю на **1С:Предприятие 8.3** и **Python**
 - 🎯 Цель: найти стажировку и развиваться в разработке
@@ -73,12 +72,9 @@
 
 ---
 
-## 📫 Контакты
+## 📫 Связаться со мной
 
-| Способ связи | Ссылка |
-|--------------|--------|
-| **Telegram** | [@stasiccs](https://t.me/stasiccs) |
-| **Email** | anasteisha_m386@mail.ru |
-| **GitHub** | [github.com/Stasics](https://github.com/Stasics) |
-
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/stasiccs)
+[![VK](https://img.shields.io/badge/VK-0077FF?style=for-the-badge&logo=vk&logoColor=white)](https://vk.com/stasiccs)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anasteisha_m386@mail.ru)
 ---
